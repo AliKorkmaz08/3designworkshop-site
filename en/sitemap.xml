@@ -6,8 +6,8 @@
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://3designworkshop.com/fr/"
+                hreflang="tr-tr"
+                href="https://3designworkshop.com/tr/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -19,8 +19,8 @@
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://3designworkshop.com/fr/products/"
+                hreflang="tr-tr"
+                href="https://3designworkshop.com/tr/products/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -28,25 +28,25 @@
                 href="https://3designworkshop.com/products/"
                 />
   </url><url>
-    <loc>https://3designworkshop.com/products/product-1/</loc>
+    <loc>https://3designworkshop.com/products/product-4/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://3designworkshop.com/fr/products/product-1/"
+                hreflang="tr-tr"
+                href="https://3designworkshop.com/tr/products/product-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://3designworkshop.com/products/product-1/"
+                href="https://3designworkshop.com/products/product-4/"
                 />
   </url><url>
     <loc>https://3designworkshop.com/blog/post-3/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://3designworkshop.com/fr/blog/post-3/"
+                hreflang="tr-tr"
+                href="https://3designworkshop.com/tr/blog/post-3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -54,12 +54,25 @@
                 href="https://3designworkshop.com/blog/post-3/"
                 />
   </url><url>
+    <loc>https://3designworkshop.com/products/product-1/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr-tr"
+                href="https://3designworkshop.com/tr/products/product-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://3designworkshop.com/products/product-1/"
+                />
+  </url><url>
     <loc>https://3designworkshop.com/products/product-2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://3designworkshop.com/fr/products/product-2/"
+                hreflang="tr-tr"
+                href="https://3designworkshop.com/tr/products/product-2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -71,8 +84,8 @@
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://3designworkshop.com/fr/blog/post-1/"
+                hreflang="tr-tr"
+                href="https://3designworkshop.com/tr/blog/post-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -80,64 +93,12 @@
                 href="https://3designworkshop.com/blog/post-1/"
                 />
   </url><url>
-    <loc>https://3designworkshop.com/products/product-4/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://3designworkshop.com/fr/products/product-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://3designworkshop.com/products/product-4/"
-                />
-  </url><url>
-    <loc>https://3designworkshop.com/products/product-7/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://3designworkshop.com/fr/products/product-7/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://3designworkshop.com/products/product-7/"
-                />
-  </url><url>
-    <loc>https://3designworkshop.com/products/product-8/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://3designworkshop.com/fr/products/product-8/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://3designworkshop.com/products/product-8/"
-                />
-  </url><url>
-    <loc>https://3designworkshop.com/blog/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://3designworkshop.com/fr/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://3designworkshop.com/blog/"
-                />
-  </url><url>
     <loc>https://3designworkshop.com/products/product-6/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://3designworkshop.com/fr/products/product-6/"
+                hreflang="tr-tr"
+                href="https://3designworkshop.com/tr/products/product-6/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -145,12 +106,51 @@
                 href="https://3designworkshop.com/products/product-6/"
                 />
   </url><url>
+    <loc>https://3designworkshop.com/products/product-7/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr-tr"
+                href="https://3designworkshop.com/tr/products/product-7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://3designworkshop.com/products/product-7/"
+                />
+  </url><url>
+    <loc>https://3designworkshop.com/products/product-3/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr-tr"
+                href="https://3designworkshop.com/tr/products/product-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://3designworkshop.com/products/product-3/"
+                />
+  </url><url>
+    <loc>https://3designworkshop.com/blog/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr-tr"
+                href="https://3designworkshop.com/tr/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://3designworkshop.com/blog/"
+                />
+  </url><url>
     <loc>https://3designworkshop.com/products/product-5/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://3designworkshop.com/fr/products/product-5/"
+                hreflang="tr-tr"
+                href="https://3designworkshop.com/tr/products/product-5/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -158,12 +158,25 @@
                 href="https://3designworkshop.com/products/product-5/"
                 />
   </url><url>
+    <loc>https://3designworkshop.com/products/product-8/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr-tr"
+                href="https://3designworkshop.com/tr/products/product-8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://3designworkshop.com/products/product-8/"
+                />
+  </url><url>
     <loc>https://3designworkshop.com/blog/post-4/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://3designworkshop.com/fr/blog/post-4/"
+                hreflang="tr-tr"
+                href="https://3designworkshop.com/tr/blog/post-4/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -175,8 +188,8 @@
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://3designworkshop.com/fr/blog/post-2/"
+                hreflang="tr-tr"
+                href="https://3designworkshop.com/tr/blog/post-2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -184,24 +197,11 @@
                 href="https://3designworkshop.com/blog/post-2/"
                 />
   </url><url>
-    <loc>https://3designworkshop.com/products/product-3/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://3designworkshop.com/fr/products/product-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://3designworkshop.com/products/product-3/"
-                />
-  </url><url>
     <loc>https://3designworkshop.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://3designworkshop.com/fr/categories/"
+                hreflang="tr-tr"
+                href="https://3designworkshop.com/tr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -212,8 +212,8 @@
     <loc>https://3designworkshop.com/contact/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://3designworkshop.com/fr/contact/"
+                hreflang="tr-tr"
+                href="https://3designworkshop.com/tr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -224,8 +224,8 @@
     <loc>https://3designworkshop.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://3designworkshop.com/fr/tags/"
+                hreflang="tr-tr"
+                href="https://3designworkshop.com/tr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -236,8 +236,8 @@
     <loc>https://3designworkshop.com/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://3designworkshop.com/fr/privacy-policy/"
+                hreflang="tr-tr"
+                href="https://3designworkshop.com/tr/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -248,8 +248,8 @@
     <loc>https://3designworkshop.com/terms-conditions/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://3designworkshop.com/fr/terms-conditions/"
+                hreflang="tr-tr"
+                href="https://3designworkshop.com/tr/terms-conditions/"
                 />
     <xhtml:link
                 rel="alternate"
